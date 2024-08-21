@@ -102,4 +102,4 @@ operator.multiply.addEventListener("click", () =>
 // operator.equal.addEventListener("click", () => calculateResult(totalNumber));
 
 // Fake function comment it if you want the calculator function
-
+operator.equal.addEventListener("click", () => handleEvent());
