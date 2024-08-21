@@ -19,8 +19,8 @@ body {
 
 .container {
   margin: auto;
-  padding: 2rem;
-  width: 520px;
+  padding: 1rem;
+  width: 430px;
   background-color: #0c0c0c;
   border-radius: 20px;
   min-height: fit-content;
@@ -59,10 +59,11 @@ input {
   background-color: transparent;
   border: none;
   color: #f5f7f8;
-  font-size: 2.5rem;
+  font-size: 2  rem;
   font-family: "Montserrat";
   text-align: right;
   font-weight: bold;
+  margin-bottom: 2rem !important;
 }
 
 input:focus {
@@ -92,7 +93,7 @@ input:hover {
 }
 
 .clear {
-  width: 80%;
+  width: 90%;
   height: 80px;
   background-color: #c40c0c;
   text-align: center;
