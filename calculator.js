@@ -97,5 +97,9 @@ operator.minus.addEventListener("click", () =>
 operator.multiply.addEventListener("click", () =>
   displayNumToInputField("×", "*")
 );
+
+//Calculate function
 // operator.equal.addEventListener("click", () => calculateResult(totalNumber));
-operator.equal.addEventListener("click", () => handleEvent());
+
+// Fake function comment it if you want the calculator function
+
